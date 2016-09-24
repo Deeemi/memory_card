@@ -129,3 +129,9 @@ div{overflow:hidden}
 .footer_menu ul li a{display:inline-block; padding:0 22px}
 .footer_menu ul li a:hover{}
 .copyright_text{line-height:17px; text-align:center}
+
+/*Queste le sto creando io sweemimix*/
+.footer_social_area{overflow:visible; background:#0D0E0F; min-height:250px; padding-top: 20px;}
+.final_info_area{text-align: center;}
+.spazio{overflow:visible; background:#0D0E0F; min-height:50; padding-top: 20px;}
+.lista_social{margin-top: 20px}
