@@ -41,14 +41,6 @@ div{overflow:hidden}
 .top_menu ul li:last-child{border-right:none} 
 .top_menu ul li a{color:#CF0000; display:block; font-size:12px; padding:0 11px; line-height:12px}
 .top_menu ul li a:hover{text-decoration:underline}
-.social_plus_search{margin-bottom:20px}
-.social{width:250px; margin:20px 0px 10px 0px}
-.social ul{list-style:none outside none; margin:0; padding:0}
-.social ul li{float:left; margin-right:7px}
-.social ul li a{display:block; padding:12px 13px}
-.twitter{background:url("images/social_icons.png") no-repeat scroll 0 0 rgba(0,0,0,0)}
-.facebook{background:url("images/social_icons.png") no-repeat scroll -37px 0px rgba(0,0,0,0)}
-.feed{background:url("images/social_icons.png") no-repeat scroll -73px 0px rgba(0,0,0,0)}
 .search{}
 .search #search_form{}
 .search #s{width:87%}
@@ -57,7 +49,7 @@ div{overflow:hidden}
 .main_menu_area ul{margin:0; padding:0; list-style:none; text-align: center}
 .main_menu_area ul li{display: inline-block}
 .main_menu_area ul li a{color:#FFF; display:block; font-family:'bebasregular'; font-size:15px; padding:18px 18.7px}
-.main_menu_area ul li a:hover{background:#CF0000}
+.main_menu_area ul li a:hover{background:#818181}
 #nav li ul{transition:all 0.3s ease 0s; -moz-transition:all 0.3s ease 0s; -webkit-transition:all 0.3s ease 0s; -o-transition:all 0.3s ease 0s; -ms-transition:all 0.3s ease 0s}
 /* dropdown css level one*/
 .main_menu_area ul li ul{background:none repeat scroll 0 0 #0D0E0F; top:100px; position:absolute; width:215px; z-index:99999; right:-99999px}
@@ -131,7 +123,7 @@ div{overflow:hidden}
 .copyright_text{line-height:17px; text-align:center}
 
 /*Queste le sto creando io sweemimix*/
-.footer_social_area{overflow:visible; background:#0D0E0F; min-height:250px; padding-top: 20px;}
-.final_info_area{text-align: center;}
-.spazio{overflow:visible; background:#0D0E0F; min-height:50; padding-top: 20px;}
-.lista_social{margin-top: 20px}
+.footer_social_area{overflow:visible; background:#0D0E0F; min-height:250px; padding-top: 20px; text-align: center;}
+.final_info_area{margin-top: 25px;}
+.spazio{overflow:visible; background:#0D0E0F; min-height:50;}
+.lista_social{margin: 10px;}
